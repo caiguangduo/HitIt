@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0618299a1fecb914c986faeca07c339a
+timeCreated: 1489237092
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZYaoTi
+  fontNames:
+  - FZYaoTi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

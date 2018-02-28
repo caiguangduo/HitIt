@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 97ea527274380af4c9627fd88b5e386a
+timeCreated: 1489237103
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eras Demi ITC
+  fontNames:
+  - Eras Demi ITC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

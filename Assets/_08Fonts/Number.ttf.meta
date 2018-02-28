@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 78a18522fd152f147a4a0a6d2cd96760
+timeCreated: 1489232247
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Farrington-7B-Qiqi
+  fontNames:
+  - Farrington-7B-Qiqi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: JSLG_ZiDongCangChu_3_M
+  m_Shader: {fileID: 4800000, guid: 91f1256d0a08a42438dade459ba9a579, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 09b4d5204f943d7449094c619184cf59, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LigMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 28edbf7be7651c143ba9619770d6460a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: eb64e802e942cdc4fb876ad31a24f342, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RefArea
+      second:
+        m_Texture: {fileID: 2800000, guid: 34598662602230e4281f2aba2397b578, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RefCubeMap
+      second:
+        m_Texture: {fileID: 8900000, guid: 1e698777fcb94cb45868a7c70c8755b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecArea
+      second:
+        m_Texture: {fileID: 2800000, guid: 9e7c70264dfb4e946bfd9a92e3d779f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0
+    - first:
+        name: _LigShadow
+      second: 0.28571424
+    - first:
+        name: _RefAreaPower
+      second: 0
+    - first:
+        name: _SpecSize
+      second: 1
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.6140408, g: 0.6263034, b: 0.6313726, a: 1}
+    - first:
+        name: _RefColor
+      second: {r: 0.051470578, g: 0.051470578, b: 0.051470578, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}

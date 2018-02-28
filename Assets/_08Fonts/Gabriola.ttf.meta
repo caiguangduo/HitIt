@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 218fd9d878da0474d9e660dcc7f89eaf
+timeCreated: 1489237094
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gabriola
+  fontNames:
+  - Gabriola
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d72a3428ee4ff2549b433cd7f489045a
+timeCreated: 1489237106
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Georgia
+  fontNames:
+  - Georgia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0966454ba09aa04ba3025b3d817da88, type: 3}
+  - {fileID: 12800000, guid: bc66f1efabf6dbe4e9718c3d438dc9b6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
